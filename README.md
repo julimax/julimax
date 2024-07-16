@@ -4,7 +4,7 @@
 
 ## GitHub Actions Certifications
 
-### [GitHub Actions]([https://www.credly.com/badges/6b0b7b70-b42f-433f-ab25-1ae41eea6fcb/public_url](link))
+### [GitHub Actions][https://www.credly.com/badges/6b0b7b70-b42f-433f-ab25-1ae41eea6fcb/public_url]
 - **Issued by**: GitHub
 - **Date of Issue**: 06/14/2024
 - **Description**: Passing the GitHub Actions certification exam validates subject matter expertise with applying continuous integration/continuous delivery (CI/CD) patterns and practices using GitHub Actions in the enterprise.
