@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**julimax/julimax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Certifications
 
-Here are some ideas to get you started:
+## GitHub Actions Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [GitHub Actions]([link-to-your-certification](https://www.credly.com/badges/6b0b7b70-b42f-433f-ab25-1ae41eea6fcb/public_url))
+- **Issued by**: GitHub
+- **Date of Issue**: 06/14/2024
+- **Description**: Passing the GitHub Actions certification exam validates subject matter expertise with applying continuous integration/continuous delivery (CI/CD) patterns and practices using GitHub Actions in the enterprise.
+
+### [GitHub Foundations]([link-to-your-certification](https://www.credly.com/badges/6f44dc9f-f344-477d-82fe-9e39729d0a07/public_url))
+- **Issued by**: GitHub
+- **Date of Issue**: 29/01/2024
+- **Description**: Passing the GitHub Foundations certification exam validates subject matter expertise by measuring entry-level skills with GitHub basics like repositories, commits, branching, markdowns, and project management.
