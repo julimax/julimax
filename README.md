@@ -13,7 +13,7 @@ Welcome to my profile! I'm passionate about DevOps, cloud technologies, and auto
 - **Issued by**: GitHub  
 - **Date of Issue**: June 2024  
 - **Description**: Demonstrates expertise in creating, managing, and optimizing CI/CD workflows using GitHub Actions to automate software development processes.  
-[Show Credential]([#](https://www.credly.com/badges/6b0b7b70-b42f-433f-ab25-1ae41eea6fcb/linked_in_profile)
+[Show Credential](https://www.credly.com/badges/6b0b7b70-b42f-433f-ab25-1ae41eea6fcb/linked_in_profile)
 
 ---
 
